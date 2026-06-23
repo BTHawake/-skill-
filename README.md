@@ -31,10 +31,10 @@
 ```bash
 # 项目级（仅当前项目可用）
 mkdir -p .claude/skills
-git clone https://github.com/chentao326/teacher-skill .claude/skills/teacher-skills
+git clone https://github.com/BTHawake/-skill- .claude/skills/teacher-skills
 
 # 全局（所有项目可用）
-git clone https://github.com/chentao326/teacher-skill ~/.claude/skills/teacher-skills
+git clone https://github.com/BTHawake/-skill- ~/.claude/skills/teacher-skills
 ```
 
 > **重要**：Claude Code 从 git 仓库根目录扫描 `.claude/skills/`，请确保目录结构正确。
@@ -47,10 +47,10 @@ codex --enable skills
 
 # 项目级
 mkdir -p .codex/skills
-git clone https://github.com/chentao326/teacher-skill .codex/skills/teacher-skills
+git clone https://github.com/BTHawake/-skill- .codex/skills/teacher-skills
 
 # 全局
-git clone https://github.com/chentao326/teacher-skill ~/.codex/skills/teacher-skills
+git clone https://github.com/BTHawake/-skill- ~/.codex/skills/teacher-skills
 ```
 
 ### OpenCode
@@ -58,16 +58,16 @@ git clone https://github.com/chentao326/teacher-skill ~/.codex/skills/teacher-sk
 ```bash
 # 项目级
 mkdir -p .opencode/skills
-git clone https://github.com/chentao326/teacher-skill .opencode/skills/teacher-skills
+git clone https://github.com/BTHawake/-skill- .opencode/skills/teacher-skills
 
 # 个人级
-git clone https://github.com/chentao326/teacher-skill ~/.config/opencode/skills/teacher-skills
+git clone https://github.com/BTHawake/-skill- ~/.config/opencode/skills/teacher-skills
 ```
 
 ### OpenClaw
 
 ```bash
-git clone https://github.com/chentao326/teacher-skill ~/.openclaw/workspace/skills/teacher-skills
+git clone https://github.com/BTHawake/-skill- ~/.openclaw/workspace/skills/teacher-skills
 # 重启 Gateway 生效
 ```
 
