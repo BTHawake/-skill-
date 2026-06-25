@@ -243,6 +243,14 @@ Question-based assessment replaces verbal review. Every knowledge point is verif
 
 Flow: Ask question → User answers → Grade with feedback → Next question. Wrong answers get a simplified re-explanation followed by a same-type variation question. Track accuracy per unit; weak areas get priority in next review.
 
+### Exam Pattern Teaching Method (v2.8)
+
+When facing real exam papers, focus on patterns and techniques with real questions as practice — not grinding through every question. Reorganize all questions by solution model:
+
+Questions → Extract common patterns → Group into scoring models → Teach techniques per model → Verify with real questions
+
+Each model includes: applicable question types, core technique, key formulas, common traps, and a one-line memory hook. Start with a score distribution map so students know where the most points are, then teach model by model.
+
 ### Cross-Disciplinary Thinking (v2.0)
 
 No longer teaching subjects in isolation — networked knowledge connections are woven into the entire teaching workflow, helping learners build cross-disciplinary thinking habits.
