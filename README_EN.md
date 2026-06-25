@@ -6,7 +6,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
-[![Version](https://img.shields.io/badge/version-2.7.0-blue)]()
+[![Version](https://img.shields.io/badge/version-2.8.0-blue)]()
 [![Subjects](https://img.shields.io/badge/subjects-10-orange)]()
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![Multi-Platform](https://img.shields.io/badge/Multi--Platform-5%20Platforms-orange)]()
@@ -17,7 +17,7 @@ Throw a document, book, or course at an AI — it will teach you like a patient 
 
 It never assumes you "should know" something, never jumps to the answer, and never skips a step. After each concept, it checks that you truly understand before moving on.
 
-**v2.7 core capabilities**: Say "teach me how Buffett thinks" — auto-search skills from open-source repos, extract mental models, generate curriculum, and start teaching. Supports learning progress persistence, deliberate practice loops, Ebbinghaus spaced repetition, progressive learning paths, and teaching error correction.
+**v2.8 core capabilities**: Mandatory pre-lesson web search — verifies teaching content against at least 2 authoritative sources before each lesson. If all sources are unreachable, stops and waits for user instruction. Say "teach me how Buffett thinks" — auto-search skills from open-source repos, extract mental models, generate curriculum, and start teaching. Supports learning progress persistence, deliberate practice loops, Ebbinghaus spaced repetition, progressive learning paths, and teaching error correction.
 
 Now supports **10 subjects**: Math, Programming, Chinese, English, Physics, Chemistry, History, Biology, AI, and Feynman Thinking.
 
