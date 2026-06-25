@@ -30,10 +30,10 @@ Now supports **10 subjects**: Math, Programming, Chinese, English, Physics, Chem
 ```bash
 # Project-level (current project only)
 mkdir -p .claude/skills
-git clone https://github.com/chentao326/teacher-skill .claude/skills/teacher-skills
+git clone https://github.com/BTHawake/Teacher_skill .claude/skills/teacher-skills
 
 # Global (available to all projects)
-git clone https://github.com/chentao326/teacher-skill ~/.claude/skills/teacher-skills
+git clone https://github.com/BTHawake/Teacher_skill ~/.claude/skills/teacher-skills
 ```
 
 > **Important**: Claude Code scans `.claude/skills/` from the git repo root. Make sure the directory structure is correct.
@@ -46,10 +46,10 @@ codex --enable skills
 
 # Project-level
 mkdir -p .codex/skills
-git clone https://github.com/chentao326/teacher-skill .codex/skills/teacher-skills
+git clone https://github.com/BTHawake/Teacher_skill .codex/skills/teacher-skills
 
 # Global
-git clone https://github.com/chentao326/teacher-skill ~/.codex/skills/teacher-skills
+git clone https://github.com/BTHawake/Teacher_skill ~/.codex/skills/teacher-skills
 ```
 
 ### OpenCode
@@ -57,16 +57,16 @@ git clone https://github.com/chentao326/teacher-skill ~/.codex/skills/teacher-sk
 ```bash
 # Project-level
 mkdir -p .opencode/skills
-git clone https://github.com/chentao326/teacher-skill .opencode/skills/teacher-skills
+git clone https://github.com/BTHawake/Teacher_skill .opencode/skills/teacher-skills
 
 # User-level
-git clone https://github.com/chentao326/teacher-skill ~/.config/opencode/skills/teacher-skills
+git clone https://github.com/BTHawake/Teacher_skill ~/.config/opencode/skills/teacher-skills
 ```
 
 ### OpenClaw
 
 ```bash
-git clone https://github.com/chentao326/teacher-skill ~/.openclaw/workspace/skills/teacher-skills
+git clone https://github.com/BTHawake/Teacher_skill ~/.openclaw/workspace/skills/teacher-skills
 # Restart Gateway to apply
 ```
 
